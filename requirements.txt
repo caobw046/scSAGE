@@ -1,0 +1,10 @@
+
+Keras==2.4.3
+torch==1.13.0
+numpy==1.23.5
+networkx==3.0
+scanpy==1.9.3
+torch-scatter==2.1.0
+torch-geometric==2.2.0
+torch-sparse==0.6.16
+munkres==1.1.4
